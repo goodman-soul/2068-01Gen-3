@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+*.obj
+clog_demo
+clog_demo_embedded
+app.log
+
+# Generated metadata
+compile_commands.json
+
+# Editor and OS noise
+.DS_Store
+.vscode/
+.idea/
